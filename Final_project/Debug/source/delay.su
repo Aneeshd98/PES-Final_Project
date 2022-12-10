@@ -1,0 +1,6 @@
+C:\Users\HP\Documents\MCUXpressoIDE_11.6.0_8187\Final_project\Final_project\CMSIS/core_cm0plus.h:804:22:NVIC_SetPriority	24	static
+../source/delay.c:22:6:Init_SysTick	8	static
+../source/delay.c:42:6:SysTick_Handler	8	static
+../source/delay.c:54:6:reset_timer	8	static
+../source/delay.c:65:12:now	8	static
+../source/delay.c:76:12:get_timer	8	static
