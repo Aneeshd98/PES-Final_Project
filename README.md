@@ -53,13 +53,15 @@ https://github.com/Aneeshd98/PES-Final_Project/blob/main/PES_Final_Project_v1.mp
 
 ## Learnings/Observations/Challenges
 
-<p align="justify"> 1. The temperature sensor is embedded in the chip itself. </p>
-<p align="justify"> 2. The temperature sensor can be optimised by: </p>
+<p align="justify"> <b>1. The temperature sensor is embedded in the chip itself. </b></p>
+<p align="justify"> <b>2. The temperature sensor can be optimised by: </b></p>
 
 - Analog-to-digital Configuration.
 - Averaging ADC readings.
 - Determine a current reading of VDD by using the bandgap voltage to calculate VDD.
 - A floating-point implementation results in more accurate math when using the approximate transfer function if you can spare the code space.
+
+<p align="justify"> <b>3. Accuracy of temperature sensor based on implementation. </b></p>
 
 | ![tmp_snsr_accuracy.jpg](https://github.com/Aneeshd98/PES-Final_Project/blob/main/tmp_snsr_accuracy.jpg)| 
 |:--:| 
