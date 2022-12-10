@@ -41,4 +41,15 @@
 |:--:| 
 | *Figure 3.* |
 
+### Video link
+https://github.com/Aneeshd98/PES-Final_Project/blob/main/PES_Final_Project_v1.mp4
+## Screenshot
+
+<p align="justify"> Figure 4. Shows the temperature variations observed by the temperature sensor integrated in FRDM-KL25Z </p>
+
+| ![temp_range_screenshot.png](https://github.com/Aneeshd98/PES-Final_Project/blob/main/temp_range_screenshot.png)| 
+|:--:| 
+| *Figure 4. Temperature  variations.* |
+
+
 <p align="justify">  </p>
