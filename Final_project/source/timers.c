@@ -2,7 +2,7 @@
  * REFERENCE: https://github.com/alexander-g-dean/ESF/blob/master/NXP/Code/Chapter_2/Source/main.c
  */
 /*
- *@LED.C
+ *@timers.C
  *@Brief: Source code for configuring TPM for generating PWM signal.
  *Created on: 08-Dec-2022
  *Author: Aneesh Deshpande

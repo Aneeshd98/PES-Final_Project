@@ -9,8 +9,8 @@
 ​ ​*
  *****************************************************************************/
 /*
- * @file timer.h
- * @breif Header file for timer.c source file.
+ * @file timers.h
+ * @breif Header file for timers.c source file.
  * @Created on: 08-Dec-2022
  * @Author: Aneesh Deshpande
  * @version 1
