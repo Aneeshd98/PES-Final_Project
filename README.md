@@ -33,13 +33,13 @@
 
 | ![transfer_function.PNG](https://github.com/Aneeshd98/PES-Final_Project/blob/main/transfer_function.PNG)| 
 |:--:| 
-| *Figure 2.* |
+| *Figure 2. Transfer Function.* |
 
 ### Temperature Reading Flowchart
 
 | ![Temperature%20Reading%20Flowchart.PNG.jpg](https://github.com/Aneeshd98/PES-Final_Project/blob/main/Temperature%20Reading%20Flowchart.PNG.jpg)| 
 |:--:| 
-| *Figure 3.* |
+| *Figure 3. Temperature Reading Flowchart.* |
 
 ### Video link
 https://github.com/Aneeshd98/PES-Final_Project/blob/main/PES_Final_Project_v1.mp4
@@ -49,7 +49,19 @@ https://github.com/Aneeshd98/PES-Final_Project/blob/main/PES_Final_Project_v1.mp
 
 | ![temp_range_screenshot.png](https://github.com/Aneeshd98/PES-Final_Project/blob/main/temp_range_screenshot.png)| 
 |:--:| 
-| *Figure 4. Temperature  variations.* |
+| *Figure 4. Temperature variations.* |
 
+## Learnings/Observations/Challenges
 
-<p align="justify">  </p>
+<p align="justify"> 1. The temperature sensor is embedded in the chip itself. </p>
+<p align="justify"> 2. The temperature sensor can be optimised by: </p>
+
+- Analog-to-digital Configuration.
+- Averaging ADC readings.
+- Determine a current reading of VDD by using the bandgap voltage to calculate VDD.
+- A floating-point implementation results in more accurate math when using the approximate transfer function if you can spare the code space.
+
+| ![tmp_snsr_accuracy.jpg](https://github.com/Aneeshd98/PES-Final_Project/blob/main/tmp_snsr_accuracy.jpg)| 
+|:--:| 
+| *Figure 5. Temperature sensor accuracy.* |
+
